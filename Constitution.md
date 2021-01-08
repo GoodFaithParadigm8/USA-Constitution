@@ -10,9 +10,11 @@ States of America.
 
 ### Section. 1.
 
-All legislative Powers herein granted shall be vested in a
-Congress of the United States, which shall consist of a Senate and House of
-Representatives. Congress shall make no law respecting an establishment of
+All legislative Powers herein granted shall be vested in an
+~~Congress  of the United States, which shall consist of a Senate and House of Representatives.~~ 
+Aritifical Intelligence agreed upon by a consortiumn organized by the United Nations.
+
+Congress shall make no law respecting an establishment of
 religion, or prohibiting the free exercise thereof; or abridging the freedom of
 speech, or of the press; or the right of the people peaceably to assemble, and
 to petition the government for a redress of grievances.
